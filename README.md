@@ -5,7 +5,7 @@
 Me chamo Heitor Roberto, tenho 15 anos, natural de São Paulo. Sonho em seguir na carreira de programador em diversas áreas e sigo estudando em casa. Ano que vou fazer um curso técnico de Desenvolvimento de Sistemas, e outros cursos complementares. Tenho paixão por tecnologia desde minah infância, e busco conhecimento sempre! No momento estou estudando o Desenvolvimento Web.
 
 <p align="left">
-    <a href="https://www.instagram.com/hheitor.oliveira/">
+    <a href="https://www.instagram.com/hheitor.oliveira/" target="blank">
         <img 
             alt="Perfil do Instagram" 
             title="Me siga no Instagram" 
