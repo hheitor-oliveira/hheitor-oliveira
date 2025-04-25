@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor-FullStack`**
 
-Me chamo Heitor Roberto, tenho 15 anos, natural de São Paulo. Sonho em seguir na carreira de programador em diversas áreas e sigo estudando em casa. Ano que vou fazer um curso técnico de Desenvolvimento de Sistemas, e outros cursos complementares. Tenho paixão por tecnologia desde minah infância, e busco conhecimento sempre! No momento estou estudando o Desenvolvimento Web.
+Me chamo Heitor Roberto, tenho 15 anos, natural de São Paulo. Sonho em seguir na carreira de programador em diversas áreas e sigo estudando em casa. Ano que vou fazer um curso técnico de Desenvolvimento de Sistemas, e outros cursos complementares. Tenho paixão por tecnologia desde minaha infância, e busco conhecimento sempre! No momento estou estudando o Desenvolvimento Web e quero avançar para o Back-End.
 
 <p align="left">
     <a href="https://www.instagram.com/hheitor.oliveira/" target="_blank">
