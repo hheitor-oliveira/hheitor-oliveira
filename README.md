@@ -6,7 +6,7 @@ Me chamo Heitor Roberto, tenho 15 anos, natural de São Paulo. Sonho em seguir n
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -123,7 +123,3 @@ Me chamo Heitor Roberto, tenho 15 anos, natural de São Paulo. Sonho em seguir n
 
 <br/>
 <br/>
-
-### 💻 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hheitor-oliveira&theme=midnight-purple&show_icons=true&include_all_comits-true&locale=pt-br)
