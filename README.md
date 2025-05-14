@@ -23,7 +23,8 @@ Me chamo Heitor Roberto, tenho 15 anos, natural de São Paulo. Sonho em seguir n
     title="CSS"
     width="30px" 
     style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons /devicon@latest/icons/css3/css3-original.svg>
+src="https://cdn.jsdelivr.net/gh/devicons /devicon@latest/icons/css3/css3-original.svg
+/>
 
    
 <img 
@@ -32,7 +33,8 @@ src="https://cdn.jsdelivr.net/gh/devicons /devicon@latest/icons/css3/css3-origin
     title="Python"
     width="30px" 
     style="padding-right: 10px;"/>
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
 
 <br/>
 <br/>
