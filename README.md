@@ -28,7 +28,7 @@ Me chamo Heitor Roberto, tenho 15 anos, natural de São Paulo. Sonho em seguir n
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"/>
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
