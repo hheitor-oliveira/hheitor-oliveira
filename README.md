@@ -1,7 +1,8 @@
 # Heitor Roberto
 
-**`Estudante/Estágiario de T.I`**
+**`Estudante/Auxiliar de Suporte de T.I - Nível 1`**
 
- Olá! Meu nome é Heitor Roberto, tenho 16 anos e estou no 1º ano do curso de Desenvolvimento de Sistemas na E.T.E.C de Poá.
-Atualmente trabalho na Biodigital, uma empresa de infraestrutura de TI, mas meu foco de estudos é me especializar em desenvolvimento de software.
-
+ Bem-vindo!
+ Atualmente curso Desenvolvimento de Sistemas na E.T.E.C e trabalhano na Biodigital Technology, empresa que presta Infraestrutura de T.I, no momento estou intensificando meus estudos em redes, automações e criação de aplicações para desktop.
+ É isso! Fiquem a vontade para dar uma olhada em meus projetos. 
+ (Quando houver rsrs)
