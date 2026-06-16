@@ -1,4 +1,4 @@
-# Heitor Roberto
+# Heitor Roberto - Biodigital Technology
 
 **`Estudante/Auxiliar de Suporte de T.I - Nível 1`**
 
