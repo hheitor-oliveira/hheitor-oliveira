@@ -27,15 +27,6 @@ Atualmente desenvolvo um ERP como projeto de estudos, simulando cenários reais 
 </p>
 
 ---
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/hheitor-oliveira/hheitor-oliveira/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hheitor-oliveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hheitor-oliveira&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
