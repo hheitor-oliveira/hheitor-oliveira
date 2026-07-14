@@ -28,5 +28,5 @@ Atualmente desenvolvo um ERP como projeto de estudos, simulando cenários reais 
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hheitor-oliveira/hheitor-oliveira/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hheitor-oliveira/hheitor-oliveira/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
