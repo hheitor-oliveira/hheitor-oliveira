@@ -11,6 +11,7 @@ Tenho curiosidade por praticamente tudo dentro da área de tecnologia. Gosto de 
 - Arquitetura de Software
 - Linux
 - Modelagem de Domínio
+- FastAPI
 
 Meu principal objetivo é me tornar um desenvolvedor capaz de analisar um problema de negócio, projetar uma solução e implementá-la com qualidade.
 
