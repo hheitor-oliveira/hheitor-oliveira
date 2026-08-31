@@ -1,152 +1,103 @@
-# 👋 Olá, eu sou o Heitor!
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer+in+progress;Python+%7C+FastAPI+%7C+PostgreSQL;Building+systems+from+business+rules;Always+learning%2C+building+and+improving." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=90&lines=HEITOR+OLIVEIRA"
+    alt="Heitor Oliveira"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/hheitor-oliveira">
-    <img src="https://img.shields.io/github/followers/hheitor-oliveira?label=Followers&style=for-the-badge" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/hheitor-oliveira">
-    <img src="https://img.shields.io/github/stars/hheitor-oliveira?label=Stars&style=for-the-badge" alt="GitHub stars">
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=8B949E&center=true&vCenter=true&width=800&height=50&lines=Software+Developer+in+progress;Building+systems+from+business+rules;Python+%7C+FastAPI+%7C+PostgreSQL"
+    alt="Software Developer"
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hheitor-oliveira&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Atualmente trabalho como **Auxiliar de Suporte de T.I. na Biodigital Technology** e estudo **Desenvolvimento de Sistemas**.
+I'm **Heitor**, currently working as an **IT Support Assistant at Biodigital Technology** and studying **Systems Development**.
 
-Minha principal área de interesse é **desenvolvimento de software**, especialmente a construção de sistemas que transformam problemas e regras de negócio em soluções bem estruturadas.
+My main interest is **software development**, especially understanding the entire process behind building a system — from analyzing a business problem to modeling, architecture, implementation and persistence.
 
-Gosto de entender o software além do código:
-
-* modelagem de domínio;
-* arquitetura de software;
-* bancos de dados;
-* APIs;
-* regras de negócio;
-* estruturação de sistemas;
-* qualidade e organização do código.
-
-Meu objetivo é me tornar um **desenvolvedor capaz de analisar um problema, projetar uma solução e implementá-la com qualidade**.
-
----
-
-## 🚀 O que estou construindo
-
-### ERP — Biodigital Technology
-
-Meu principal projeto de estudos é um **ERP desenvolvido do zero**, utilizado como laboratório para praticar engenharia de software e simular problemas encontrados em sistemas reais.
-
-O projeto envolve:
+I enjoy working across different layers of software and understanding how they connect:
 
 ```text
-Regras de negócio
+Business Problem
        ↓
-Modelagem de domínio
+Domain Modeling
        ↓
-Arquitetura
+Architecture
        ↓
-API
+Backend
        ↓
-Banco de dados
+Database
        ↓
-Interface
+Frontend
+       ↓
+Complete Application
 ```
 
-Atualmente estou trabalhando principalmente com:
-
-* Python
-* FastAPI
-* SQLAlchemy
-* Alembic
-* PostgreSQL
-* JavaScript
-* HTML
-* CSS
-
-> O objetivo não é apenas fazer o sistema funcionar, mas entender **por que ele deve ser construído daquela maneira**.
+My goal is to become a developer capable of **analyzing problems, designing solutions and building software with quality**.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 ### Backend
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
-  <img src="https://img.shields.io/badge/Alembic-6C757D?style=for-the-badge&logo=python&logoColor=white" alt="Alembic">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlalchemy&perline=6" alt="Backend technologies">
 </p>
 
 ### Database
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres&perline=6" alt="Database technologies">
 </p>
 
 ### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=6" alt="Frontend technologies">
 </p>
 
 ### Development Environment
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=8" alt="Development tools">
 </p>
 
 ---
 
-## 📚 Atualmente estudando
-
-```text
-Python
- ├── POO
- ├── Arquitetura
- └── Boas práticas
-
-Backend
- ├── FastAPI
- ├── REST APIs
- └── SQLAlchemy
-
-Database
- ├── PostgreSQL
- ├── SQL
- ├── Modelagem
- └── Migrations
-
-Software Engineering
- ├── Domain Modeling
- ├── Architecture
- ├── Testing
- └── Design
-```
-
-Meu foco atual é consolidar uma **stack completa para desenvolvimento de aplicações**, entendendo cada camada antes de partir para especializações mais profundas.
-
----
-
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hheitor-oliveira&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hheitor-oliveira&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=hheitor-oliveira&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    alt="Heitor's GitHub Stats"
+  />
+
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=hheitor-oliveira&layout=compact&theme=github_dark&hide_border=true"
+ alt="Top Languages"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hheitor-oliveira&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hheitor-oliveira&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -154,26 +105,30 @@ Meu foco atual é consolidar uma **stack completa para desenvolvimento de aplica
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hheitor-oliveira/hheitor-oliveira/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img
+    src="https://raw.githubusercontent.com/hheitor-oliveira/hheitor-oliveira/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
 
-## 💻 Current mindset
+## 📫 Connect With Me
 
 <p align="center">
-
-> **Understand the problem.**
->
-> **Design the solution.**
->
-> **Build it.**
->
-> **Improve it.**
-
+  <a href="https://github.com/hheitor-oliveira">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
+  </a>
 </p>
 
 ---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer"
+    alt="Footer"
+  />
+</p>
 
 <p align="center">
   <i>"Transformando café em código."</i> ☕
